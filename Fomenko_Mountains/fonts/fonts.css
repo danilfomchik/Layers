@@ -1,0 +1,15 @@
+@font-face {font-family: "Bringin";
+    src: url("./Bringin/Bringin.eot");
+    src: url("./Bringin/Bringin.eot#iefix") format("embedded-opentype"),
+    url("./Bringin/Bringin.woff2") format("woff2"), 
+    url("./Bringin/Bringin.woff") format("woff"),
+    url("./Bringin/Bringin.ttf") format("truetype"),
+    url("./Bringin/Bringin.svg#Bringin") format("svg"); }
+
+@font-face {font-family: "Myriad Pro";
+    src: url("./Myriad_Pro/MyriadPro.eot");
+    src: url("./Myriad_Pro/MyriadPro#iefix") format("embedded-opentype"),
+    url("./Myriad_Pro/MyriadPro.woff2") format("woff2"),
+    url("./Myriad_Pro/MyriadPro.woff") format("woff"),
+    url("./Myriad_Pro/MyriadPro.ttf") format("truetype"),
+    url("./Myriad_Pro/MyriadPro.svg#Myriad Pro") format("svg"); }
